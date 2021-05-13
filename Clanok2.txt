@@ -6,3 +6,7 @@ Ja
 som
 uvod pre Clanok2
 ----
+Ja
+som
+obsah pre Clanok2
+----
