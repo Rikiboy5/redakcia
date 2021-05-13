@@ -1,4 +1,4 @@
 Autor: Richard Gaál
-Téma: Práca s gitom
+Téma: Práca s gitom ver. 1
 Dátum: 10.5.2021
 ----
