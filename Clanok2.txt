@@ -1,0 +1,4 @@
+Autor: Richard Gaál
+Téma: Práca s gitom
+Dátum: 10.5.2021
+----
