@@ -11,4 +11,5 @@ som
 obsah pre Clanok2
 ----
 Ja som
-zaver pre Clanok1
+zaver
+pre Clanok1
